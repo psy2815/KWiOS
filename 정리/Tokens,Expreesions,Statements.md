@@ -6,7 +6,7 @@
   ```swift
  a + b
  ```
- >  ##### a + b는 a, +, b 3개의 토큰으로 구성되어 있다.
+ > a + b는 a, +, b 3개의 토큰으로 구성되어 있다.
 
   - Expressions (표현식) - 하나 이상의 토큰이 모여 하나의 값을 도출하는 코드이다.
   ```swift
@@ -16,10 +16,10 @@
  x > y
  ```
  
- > ##### x 는 1 값을 도출 <br>
- > ##### y 는 2 값을 도출 <br>
- > ##### x < y true 값을 도출<br>
- > ##### x > y false 값을 도출
+ >  x 는 1 값을 도출 <br>
+ >  y 는 2 값을 도출 <br>
+ >  x < y true 값을 도출 <br>
+ >  x > y false 값을 도출
 
   - Statements (문장) - 표현식이 하나 이상 모여 특정 작업을 수행하는 코드이다.
   ```swift
@@ -28,11 +28,8 @@
  print(str)
  print(number)
  ```
- > ##### str 변수에 문자열 Swift 저장 
- 
- > ##### number 변수에 123 저장
- 
- > ##### str 변수에 저장된 문자열 Swift 출력
- 
- > ##### number 변수에 저장된 123 출력
+ > str 변수에 문자열 Swift 저장 <br>
+ > number 변수에 123 저장 <br>
+ > str 변수에 저장된 문자열 Swift 출력 <br>
+ > number 변수에 저장된 123 출력
 
