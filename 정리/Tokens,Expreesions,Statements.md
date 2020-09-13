@@ -23,15 +23,14 @@
  
  > ##### x > y false 값을 도출
 
-  - Statements (문장) - 표현식이 하나 이상 모여 특정 작업을 수행하는 코드이다.
+  - Statements (문장) - 표현식이 하나 이상 모여 특정 작업을 수행하는 코드이다.
   ```swift
  let str = "Swift"
  let number = 123
  print(str)
  print(number)
  ```
- > str 변수에 문자열 Swift 저장 
-   number 변수에 123 저장
+ > str 변수에 문자열 Swift 저장 \n   number 변수에 123 저장
  > str 변수에 저장된 문자열 Swift 출력
  > number 변수에 저장된 123 출력
 
