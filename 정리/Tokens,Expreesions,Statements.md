@@ -30,8 +30,8 @@
  print(str)
  print(number)
  ```
- > str 변수에 문자열 Swift 저장
- > number 변수에 123 저장
+ > str 변수에 문자열 Swift 저장 
+   number 변수에 123 저장
  > str 변수에 저장된 문자열 Swift 출력
  > number 변수에 저장된 123 출력
 
