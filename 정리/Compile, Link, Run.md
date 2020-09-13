@@ -6,34 +6,7 @@
 
 
 - **Compile**  - 사용자가 작성한 코드를 0과 1로 변환하는 행위이다.
-![compile](https://github.com/psy2815/KWiOS/blob/main/image/compileImage.png?raw=true)
-
-
-<br>
-
- - **Link ** - 
-  ```swift
-  let x = 1
-  let y = 1 
-  let number = 123
-  let str = "Swift"
-  ``` 
-  > `x, y, number, str` 이 Identifier 이다. 
-  
-<br>
-
- - **Run ** -
-
-  ```swift
-  var x = 1
-  let y = 2
-  ------------
-  for i in 10{
-      code
-  }
-  ------------
-  if x > y {
-      code
-  }
-  ```
-  > `var, let, for, if` 등 Swift에서 미리 지정해놓은 단어를 말한다.
+- **Link** - 이미 만들어진 기능들을 내가 작성한 코드들과 연결하는 행위이다.
+- **Run** - 실행 ( 시뮬레이터에서 실행 / 디바이스에서 실행)
+- **Compile Time** - 코드를 작성하고 컴파일과 링크를 완료 후 실행파일이 생성되기까지의 시간이다.
+- **Runtime** - 실행파일을 실제 디바이스에서 확인하는 시간이다.
