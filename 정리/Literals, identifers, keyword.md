@@ -24,7 +24,7 @@
   let number = 123
   let str = "Swift"
   ``` 
-  > x, y, number, str 이 Identifier 이다. 
+  > `x, y, number, str` 이 Identifier 이다. 
   
 <br>
 
@@ -42,5 +42,5 @@
       code
   }
   ```
-  > var, let, for, if 등 Swift에서 미리 지정해놓은 단어를 말한다.
+  > `var, let, for, if` 등 Swift에서 미리 지정해놓은 단어를 말한다.
 
