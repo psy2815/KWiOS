@@ -6,6 +6,7 @@
 
 
 - **Compile**  - 사용자가 작성한 코드를 0과 1로 변환하는 행위이다.
+![compile](https://github.com/psy2815/KWiOS/blob/main/image/compileImage.png?raw=true)
 
 
 <br>
