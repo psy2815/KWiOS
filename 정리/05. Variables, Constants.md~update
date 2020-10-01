@@ -1,0 +1,37 @@
+> 📝 iOS Swift 정리
+
+# Variables, Constants
+- **Variables (변수)** - 변할 수 있는 수, 값을 저장하고 저장된 값은 언제는지 변경 가능하다.
+ 
+    ```swift
+    var variableName = initiaValue 
+    variableName = initiaValue 
+    ```
+    > 기본유형으론 위와 같다.
+    ```swift
+    var str = "Swift"
+    var name = "PKW"
+    var number = 123
+    number = "123" << 오류 발생
+    var vaild = true
+    ```
+    > `var str = "Swift"` `var name = "PKW"` `str, name`은 String타입으로 선언되며 <br>
+    > `number =  "123"` 이 코드에서 `"123"`으로 값을 변경 할 경우 오류가 발생한다. 왜냐하면 최초 선언 시 Int 타입으로 선언해주었기 때문에 `String` 타입의 값으로 변경 할 수 없다.
+
+<br>
+
+- **Constants (상수)** - 초기화 후에는 값을 변경 할 수 없다.
+
+    ```swift
+    let constantName = initiaValue 
+    constantName = initiaValue 
+    ```
+    > 기본유형으론 위와 같다.
+    ```swift
+    let str = "Swift"
+    let number = 123
+    str = "PKW"<< 오류 발생
+    number = 456 << 오류 발생
+    ```
+    > `str = "PKW"` `number = 456` 이 코드처럼 새로운 값으로 변경 할 경우 오류가 발생한다. 왜냐하면 `Constants (상수)`는 최초 선언(초기화) 후에는 값을 변경 할 수 없다.
+
